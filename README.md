@@ -1,1 +1,1 @@
-Proyek ini adalah sebuah bot untuk melakukan spam chat yang dikembangkan menggunakan bahasa pemrograman Python. Bot ini dapat digunakan untuk mengirim pesan secara otomatis dalam chatroom atau platform komunikasi lainnya.
+© 2024 mohrezaalfiali. All Rights Reserved.
